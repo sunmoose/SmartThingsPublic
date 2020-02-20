@@ -1,15 +1,13 @@
-# SmartThings Public GitHub Repo
+# smartthings
 
-An official list of SmartApps and Device Types from SmartThings.
+Devices and SmartApps for Samsung Smartthings HUB
 
-Here are some links to help you get started coding right away:
+### devices
+- symfonisk.groovy
+  Device Handler for Ikea Symfonisk Controller
 
-* [GitHub-specific Documentation](http://docs.smartthings.com/en/latest/tools-and-ide/github-integration.html)
-* [Full Documentation](http://docs.smartthings.com)
-* [IDE & Simulator](http://ide.smartthings.com)
-* [Community Forums](http://community.smartthings.com)
-
-Follow us on the web:
-
-* Twitter: http://twitter.com/smartthingsdev
-* Facebook: http://facebook.com/smartthingsdevelopers
+### smartapps
+- sonos-remote-control.groovy
+  SmartApp for controlling Sonos devices with Ikea Symfonisk Controller
+- light-control.groovy
+  SmartApp for controlling light bulb with Ikea Symfonisk Controller
